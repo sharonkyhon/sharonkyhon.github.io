@@ -2,7 +2,7 @@
 layout: home
 
 title: "Sharon Hon"
-subtitle: Astronomer, Philosopher, Mathematician
+subtitle: Physicist
 share-title: "Hypatia of Alexandria - Home"
 share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
 support-promo-box: true
