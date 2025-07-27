@@ -16,7 +16,7 @@ Hi! I’m **Sharon Hon**, a third year undergraduate student reading Physics at 
 
 Outside of academics, I enjoy painting, learning the guitar, playing squash and reading.
 
-![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
+# ![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
 
 ## Connect with Me
 
