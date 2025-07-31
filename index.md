@@ -12,7 +12,7 @@ cover-img:
 
 # About me
 
-Hi! I’m **Sharon Hon**, a third year undergraduate student reading Physics at the University of Oxford. I am currently interning at Westlake University, China, studying fine-grained epidemiology. 
+Hi! I’m **Sharon Hon**, a third year undergraduate student reading Physics at the University of Oxford. I am currently interning at Westlake University, China, studying fine-grained epidemiology with the aid of network theory. 
 
 Outside of academics, I enjoy painting, learning the guitar and reading. I also enjoy playing squash and table tennis.
 
