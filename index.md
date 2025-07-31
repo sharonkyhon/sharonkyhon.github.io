@@ -7,7 +7,7 @@ share-title: "Sharon Hon - Home"
 share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
 support-promo-box: true
 cover-img:
-    - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
+    - "ba risk network.jpg"
 ---
 
 # About me
